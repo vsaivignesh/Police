@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Try2</string>
+    <string name="search">Search</string>
+    <string name="add_to_favs">Add to Favs</string>
+</resources>
